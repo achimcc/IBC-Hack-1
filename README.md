@@ -9,7 +9,7 @@ Follow the intructions below to run the subtrace-contracts-node either on Linux 
 1. Download contracts node: 
 
     ```
-    wget https://github.com/paritytech/substrate-contracts-node/releases/download/v0.16.0/substrate-contracts-node-linux.tar.gz
+    curl -o substrate-contracts-node-linux.tar.gz https://github.com/paritytech/substrate-contracts-node/releases/download/v0.16.0/substrate-contracts-node-linux.tar.gz
     ```
 
 2. Unpack:
