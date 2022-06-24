@@ -1,4 +1,4 @@
-# NYC-Hacker_House
+# NYC-Hacker House ink! Workshop
 
 ## Download and run the contracts-node:
 
