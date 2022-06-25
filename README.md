@@ -58,5 +58,6 @@ Follow the intructions below to run the subtrace-contracts-node either on Linux 
 ## Open ERC20 Smart Contract in ink! Playground:
 
 Open ERC20 Smart contract [here](https://ink-playground.substrate.io/?id=cc2bfb0906449a74c3e28a7586255de4)
+<a href="https://ink-playground.substrate.io/?id=cc2bfb0906449a74c3e28a7586255de4" target="_blank">here</a>
    
 
