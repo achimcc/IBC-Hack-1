@@ -61,6 +61,7 @@ Open the standard flipper Smart contract in ink! Playground here (open in new ta
 
 ## Exercise 1: compile and deploy a Smart Contract
 
+The ink! playground browser IDE loads with the flipper contract. This is ink!'s very basic example of a Smart Contract. It holds one `bool` variable which can be either read through `get()` or flipped from `true` to `false` and vice versa through `flip()`.
 
 1. Click on Test button, the tests should pass
 2. Click on Compile button, the Smart Contract should compile
@@ -70,6 +71,8 @@ Open the standard flipper Smart contract in ink! Playground here (open in new ta
 6. Interact with the Smart Contract: read the state variable, flip it, read it again
 
 ## Exercise 2: modify the Smart Contract
+
+We want to modify the basic flipper example such that we replace the `bool` state variable by a `i32` and change the `flip()` extrinsic to a `set()` extrinsic which allows us to set a specific value.
 
 1. Change the state variable from `bool` to `i8`
 2. Rename `flip(&mut self)` to `set(&mut self, value: i8)`
