@@ -72,10 +72,10 @@ The ink! playground browser IDE loads with the flipper contract. This is ink!'s 
 
 ## Exercise 2: modify the Smart Contract
 
-We want to modify the basic flipper example such that we replace the `bool` state variable by a `i8` and change the `flip()` extrinsic to a `set()` extrinsic which allows us to set a specific value.
+We want to modify the basic flipper example such that we replace the `bool` state variable by a `i32` and change the `flip()` extrinsic to a `set()` extrinsic which allows us to set a specific value.
 
-1. Change the state variable from `bool` to `i8`
-2. Rename `flip(&mut self)` to `set(&mut self, value: i8)`
+1. Change the state variable from `bool` to `i32`
+2. Rename `flip(&mut self)` to `set(&mut self, value: i32)`
 3. Make the Smart Contract compile
 4. Fix the tests
 
