@@ -55,13 +55,24 @@ Follow the intructions below to run the subtrace-contracts-node either on Linux 
    ./substrate-contracts-node --dev
    ```
    
-## Open ERC20 Smart Contract in ink! Playground:
+## Open flipper Smart Contract in ink! Playground:
 
-Open ERC20 Smart contract [here](https://ink-playground.substrate.io/?id=cc2bfb0906449a74c3e28a7586255de4)
+Open the standard flipper Smart contract in ink! Playground here (open in new tab): [here](https://ink-playground.substrate.io)
 
----
+## Exercise 1: compile and deploy a Smart Contract
 
-Test: [Spiegel](https://www.spiegel.de/?target=_blank)
 
-   
+1. Click on Test button, the tests should pass
+2. Click on Compile button, the Smart Contract should compile
+3. Download the .contract bundle
+4. Click on the Deploy on Contracts UI button
+5. Deploy the Smart Contract
+6. Interact with the Smart Contract: read the state variable, flip it, read it again
+
+## Exercise 2: modify the Smart Contract
+
+1. Change the state variable from `bool` to `i8`
+2. Rename `flip(&mut self)` to `set(&mut self, value: i8)`
+3. Make the Smart Contract compile
+4. Fix the tests
 
