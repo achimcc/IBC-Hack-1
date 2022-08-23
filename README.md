@@ -61,8 +61,7 @@ Open ERC20 Smart contract [here](https://ink-playground.substrate.io/?id=cc2bfb0
 
 ---
 
-Test: [Spiegel](https://www.spiegel.de){target="_blank"}
-
+Test: [Spiegel](https://www.spiegel.de/?target=_blank)
 
    
 
