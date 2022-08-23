@@ -1,4 +1,4 @@
-# NYC Hacker House ink! Workshop
+# IBC Hack 1 - ink! Smart Contracts in Rust
 
 ## Download and run the contracts-node:
 
@@ -9,7 +9,7 @@ Follow the intructions below to run the subtrace-contracts-node either on Linux 
 1. Download contracts node: 
 
     ```
-    curl -O -L https://github.com/paritytech/substrate-contracts-node/releases/download/v0.16.0/substrate-contracts-node-linux.tar.gz
+    curl -O -L https://github.com/paritytech/substrate-contracts-node/releases/download/v0.19.0/substrate-contracts-node-linux.tar.gz
     ```
 
 2. Unpack:
@@ -35,7 +35,7 @@ Follow the intructions below to run the subtrace-contracts-node either on Linux 
 1. Download contracts node: 
 
     ```
-    curl -O -L https://github.com/paritytech/substrate-contracts-node/releases/download/v0.16.0/substrate-contracts-node-mac-universal.tar.gz
+    curl -O -L https://github.com/paritytech/substrate-contracts-node/releases/download/v0.19.0/substrate-contracts-node-mac-universal.tar.gz
     ```
 
 2. Unpack:
