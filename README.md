@@ -59,6 +59,10 @@ Follow the intructions below to run the subtrace-contracts-node either on Linux 
 
 Open ERC20 Smart contract [here](https://ink-playground.substrate.io/?id=cc2bfb0906449a74c3e28a7586255de4)
 
+---
+
+Test: [Spiegel](https://www.spiegel.de){:target="_blank"}
+
 
    
 
